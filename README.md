@@ -1,8 +1,9 @@
 TicTacToe 🎮
+
 Ein klassisches Tic-Tac-Toe Spiel, entwickelt mit C# und Windows Forms. 
 Das Projekt bietet sowohl einen lokalen Mehrspieler-Modus als auch einen Einzelspieler-Modus gegen einen Computer mit verschiedenen Schwierigkeitsgraden.
 
-🚀 Features
+Features
 PvP-Modus: Spiele lokal gegen einen Freund (Spieler X vs. Spieler O).
 
 PvE-Modus: Tritt gegen eine KI an.
